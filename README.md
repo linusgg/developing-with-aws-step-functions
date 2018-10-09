@@ -1,4 +1,5 @@
 # Developing with AWS Step Functions
+lasted updated 10/10/2018
 
 ## Senario
 
@@ -23,8 +24,11 @@ A cookiecutter template to create a Serverless App based on Serverless Applicati
 ## Step Functions
 
 * [AWS Step Functions](https://aws.amazon.com/step-functions/)
+
 * [AWS Step Functions Developer Guide](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html)
+
 * [statelint](https://github.com/awslabs/statelint)
+
 * [Amazon States Language](https://states-language.net/spec.html)
 
 ## Reference Architectures
