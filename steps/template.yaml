@@ -420,6 +420,3 @@ Outputs:
   ResolveIncidentFunctionArn:
     Description: Resolve Incident Function ARN
     Value: !GetAtt ResolveIncidentFunction.Arn
-  TakeAdministrativeActionFunctionArn:
-    Description: Take Administrative Action Function ARN
-    Value: !GetAtt TakeAdministrativeActionFunction.Arn
